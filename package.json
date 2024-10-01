@@ -8,6 +8,7 @@
   "keywords": ["Directus 11", "Deployment", "Self hosting"],
   "author": "anishghimire862@gmail.com",
   "license": "ISC",
+  "type": "module",
   "description": "Directus 11 - Demo App",
   "dependencies": {
     "directus": "^11.0.1",
